@@ -3,7 +3,7 @@
 Instances of parametrized VHDL Posit Arithmetic units generated with the FloPoCo tool (http://flopoco.gforge.inria.fr/).
 These operators support the posit standard including round to nearest-even method.
 
-FloPoCo allows to generate VHDL code for Posit$\langle n, es \rangle$ arithmetic units with any configuration of bitwidth ($n$) and exponent-size ($es$). This repository contains concrete generated instances to facilitate its use and dissemination.
+FloPoCo allows to generate VHDL code for Posit⟨_n,es_⟩ arithmetic units with any configuration of bitwidth (_n_) and exponent-size (_es_). This repository contains concrete generated instances to facilitate its use and dissemination.
 
 ## Available arithmetic units
 * Posit Adder
