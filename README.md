@@ -6,8 +6,9 @@ These operators support the posit standard including round to nearest-even metho
 FloPoCo allows to generate VHDL code for Posit⟨_n,es_⟩ arithmetic units with any configuration of bitwidth (_n_) and exponent-size (_es_). This repository contains concrete generated instances to facilitate its use and dissemination.
 
 ## Available arithmetic units
-* Posit Adder
-* Posit Multiplier
+* [Posit Adder](/PositAdd)
+* [Posit Multiplier](./PositMult)
+* [Posit Fused Multiply-accumulate](./PositMAC) (MAC) with **quire support**
 
 ## Reference
 This work is the result from the following articles. Please refer to them for more detailed description of the posit cores.  
