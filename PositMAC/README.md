@@ -1,4 +1,4 @@
-For this component, three different adder designs are considered when perfomring quire addition:
+For this component, three different adder designs are considered when performing quire addition:
 * Ripple-carry adder
 * Brent-Kung adder
 * Kogge-Stone adder

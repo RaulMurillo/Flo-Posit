@@ -9,12 +9,13 @@ FloPoCo allows to generate VHDL code for Posit⟨_n,es_⟩ arithmetic units with
 * [Posit Adder](/PositAdd)
 * [Posit Multiplier](./PositMult)
 * [Posit Fused Multiply-accumulate](./PositMAC) (MAC) with **quire support**
+* [Posit Logarithm-Approximate Multiplier](./PositLAM)
 
 ## Reference
 This work is the result from the following articles. Please refer to them for more detailed description of the posit cores.  
 If you find this code useful in your research, please consider citing:
 
-> R. Murillo, A. A. Del Barrio and G. Botella, "Customized Posit Adders and Multipliers using the FloPoCo Core Generator," 2020 IEEE International Symposium on Circuits and Systems (ISCAS), 2020, pp. 1-5, doi: [10.1109/ISCAS45731.2020.9180771](https://doi.org/10.1109/ISCAS45731.2020.9180771).
+> R. Murillo, A. A. Del Barrio and G. Botella, "Customized Posit Adders and Multipliers using the FloPoCo Core Generator," *2020 IEEE International Symposium on Circuits and Systems (ISCAS)*, 2020, pp. 1-5, doi: [10.1109/ISCAS45731.2020.9180771](https://doi.org/10.1109/ISCAS45731.2020.9180771).
 ```
 @inproceedings{murillo2020customized,
   title={Customized posit adders and multipliers using the FloPoCo core generator},
@@ -27,7 +28,7 @@ If you find this code useful in your research, please consider citing:
   organization={IEEE}
 }
 ```
-> R. Murillo, A. A. Del Barrio Garcia, G. Botella, M. S. Kim, H. Kim and N. Bagherzadeh, "PLAM: a Posit Logarithm-Approximate Multiplier," in IEEE Transactions on Emerging Topics in Computing, doi: [10.1109/TETC.2021.3109127](https://doi.org/10.1109/TETC.2021.3109127).
+> R. Murillo, A. A. Del Barrio Garcia, G. Botella, M. S. Kim, H. Kim and N. Bagherzadeh, "PLAM: a Posit Logarithm-Approximate Multiplier," in *IEEE Transactions on Emerging Topics in Computing*, doi: [10.1109/TETC.2021.3109127](https://doi.org/10.1109/TETC.2021.3109127).
 ```
 @article{murillo2021plam,
   title={PLAM: a Posit Logarithm-Approximate Multiplier},
