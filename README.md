@@ -19,7 +19,7 @@ If you find this code useful in your research, please consider citing:
 ```
 @inproceedings{murillo2020customized,
   title={Customized posit adders and multipliers using the FloPoCo core generator},
-  author={Murillo, Raul and Del Barrio, Alberto A and Botella, Guillermo},
+  author={Murillo, Raul and Del Barrio, Alberto Antonio and Botella, Guillermo},
   booktitle={2020 IEEE International Symposium on Circuits and Systems (ISCAS)},
   pages={1--5},
   year={2020},
@@ -32,7 +32,7 @@ If you find this code useful in your research, please consider citing:
 ```
 @article{murillo2021plam,
   title={PLAM: a Posit Logarithm-Approximate Multiplier},
-  author={Murillo, Raul and Garcia, Alberto Antonio Del Barrio and Botella, Guillermo and Kim, Min Soo and Kim, Hyunjin and Bagherzadeh, Nader},
+  author={Murillo, Raul and Del Barrio, Alberto Antonio and Botella, Guillermo and Kim, Min Soo and Kim, Hyunjin and Bagherzadeh, Nader},
   journal={IEEE Transactions on Emerging Topics in Computing},
   year={2021},
   volume={},
