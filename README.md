@@ -28,7 +28,7 @@ If you find this code useful in your research, please consider citing:
   organization={IEEE}
 }
 ```
-> R. Murillo, A. A. Del Barrio Garcia, G. Botella, M. S. Kim, H. Kim and N. Bagherzadeh, "PLAM: a Posit Logarithm-Approximate Multiplier," in *IEEE Transactions on Emerging Topics in Computing*, doi: [10.1109/TETC.2021.3109127](https://doi.org/10.1109/TETC.2021.3109127).
+> R. Murillo, A. A. Del Barrio Garcia, G. Botella, M. S. Kim, H. Kim and N. Bagherzadeh, "PLAM: a Posit Logarithm-Approximate Multiplier," in *IEEE Transactions on Emerging Topics in Computing* (2021), doi: [10.1109/TETC.2021.3109127](https://doi.org/10.1109/TETC.2021.3109127).
 ```
 @article{murillo2021plam,
   title={PLAM: a Posit Logarithm-Approximate Multiplier},
@@ -41,6 +41,17 @@ If you find this code useful in your research, please consider citing:
   doi={10.1109/TETC.2021.3109127}},
   url={https://ieeexplore.ieee.org/document/9530365},
   publisher={IEEE}
+}
+```
+> R. Murillo, D. Mallasén, A. A. Del Barrio Garcia and G. Botella, "Energy-Efficient MAC Units for Fused Posit Arithmetic." *2021 IEEE 39th International Conference on Computer Design (ICCD)*. IEEE, 2021, doi: [10.1109/ICCD53106.2021.00032](https://doi.org/10.1109/ICCD53106.2021.00032).
+```
+@inproceedings{murillo2021energy,
+  title={Energy-Efficient MAC Units for Fused Posit Arithmetic},
+  author={Murillo, Raul and Mallas{\'e}n, David and Del Barrio, Alberto A. and Botella, Guillermo},
+  booktitle={2021 IEEE 39th International Conference on Computer Design (ICCD)},
+  pages={138--145},
+  year={2021},
+  organization={IEEE}
 }
 ```
 
