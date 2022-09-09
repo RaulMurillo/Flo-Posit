@@ -51,7 +51,22 @@ If you find this code useful in your research, please consider citing:
   booktitle={2021 IEEE 39th International Conference on Computer Design (ICCD)},
   pages={138--145},
   year={2021},
+  doi={10.1109/ICCD53106.2021.00032},
+  url={https://ieeexplore.ieee.org/document/9643752},
   organization={IEEE}
+}
+```
+> R. Murillo, D. Mallasén, A. A. Del Barrio Garcia and G. Botella, "Comparing different decodings for posit arithmetic." * Conference on Next Generation Arithmetic*. Springer, Cham, 2022, doi: [10.1007/978-3-031-09779-9_6](https://doi.org/10.1007/978-3-031-09779-9_6).
+```
+@inproceedings{murillo2022comparing,
+  title={Comparing different decodings for posit arithmetic},
+  author={Murillo, Raul and Mallas{\'e}n, David and Del Barrio, Alberto A. and Botella, Guillermo},
+  booktitle={Conference on Next Generation Arithmetic},
+  pages={84--99},
+  year={2022},
+  doi={10.1007/978-3-031-09779-9_6},
+  url={https://link.springer.com/chapter/10.1007/978-3-031-09779-9_6},
+  organization={Springer}
 }
 ```
 
