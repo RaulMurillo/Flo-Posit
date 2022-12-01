@@ -56,7 +56,7 @@ If you find this code useful in your research, please consider citing:
   organization={IEEE}
 }
 ```
-> R. Murillo, D. Mallasén, A. A. Del Barrio Garcia and G. Botella, "Comparing different decodings for posit arithmetic." * Conference on Next Generation Arithmetic*. Springer, Cham, 2022, doi: [10.1007/978-3-031-09779-9_6](https://doi.org/10.1007/978-3-031-09779-9_6).
+> R. Murillo, D. Mallasén, A. A. Del Barrio Garcia and G. Botella, "Comparing different decodings for posit arithmetic." *Conference on Next Generation Arithmetic*. Springer, Cham, 2022, doi: [10.1007/978-3-031-09779-9_6](https://doi.org/10.1007/978-3-031-09779-9_6).
 ```
 @inproceedings{murillo2022comparing,
   title={Comparing different decodings for posit arithmetic},
@@ -73,3 +73,6 @@ If you find this code useful in your research, please consider citing:
 ## License
 
 [GPL v3.0 license](LICENSE)
+
+## Acknowledgements
+This work was supported by a 2020 Leonardo Grant for Researchers and Cultural Creators, from BBVA Foundation, whose id is PR2003 20/01, by the EU(FEDER) and the Spanish MINECO under grant RTI2018-093684-B-I00, and by the CM under grant S2018/TCS-4423.
